@@ -240,6 +240,7 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 [v_ccs]: http://youtu.be/oWbUtlUhwa8
 [v_gt]: http://youtu.be/qc1owf2-220
 [v_gnt]: http://youtu.be/DINxNbBOEoI
+[v_google]: https://www.youtube.com/watch?v=XKu_SEDAykw
 
 ## Similar Github repos
 
